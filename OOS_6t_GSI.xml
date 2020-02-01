@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>OxygenOS</RomName> 
+  <VersionName>10.3.1</VersionName> 
+  <VersionNumber type="integer">20200125</VersionNumber> 
+  <DirectUrl></DirectUrl> 
+  <HttpUrl></HttpUrl>
+  <Android>10</Android> 
+  <CheckMD5>03EF8D55C5822DC9C697E6AE40876F90</CheckMD5> 
+  <FileSize type="integer">1960069124</FileSize> 
+  <Developer>HARDGEYNER</Developer> 
+  <AddonCount>1</AddonCount>
+  <AddonCount>2</AddonCount>
+  <AddonCount>3</AddonCount>
+  <AddonCount>4</AddonCount>
+  <AddonCount>5</AddonCount>
+  <AddonCount>6</AddonCount>
+  <AddonCount>7</AddonCount>
+  <AddonCount>8</AddonCount>
+  <AddonsURL>https://raw.githubusercontent.com/Nervnyi1990/lite-aex-ota/master/addons.xml</AddonsURL>
+  <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
+  <DonateURL>https://money.yandex.ru/to/410012966283463</DonateURL> 
+  <Changelog>
+  ** Port version 1.0
+    
+  *  Сконвертировал Требл прошивку
+    
+     Converted Treble rom
+    
+  *  Портировал Требл прошивку
+    
+     Ported Treble rom
+    
+  *  Починил звук 
+    
+     Sound fix
+    
+  *  Исправленна яркость/автояркость
+    
+     Fix brightness
+    
+  *  Исправленны графические баги 
+    
+     Fixed Graphic bugs
+    
+  *  Исправленны рандомные перезагрузки
+    
+     Fixed random reboot
+    
+  *  Исправленны графические темы
+        
+    Fixed graphic themes
+	
+  *  Вшиты стоковые приложения
+        
+    Fixed stock app
+	
+  *  Оптимизированны стоковые приложения и их темы
+        
+    Fixed stock app and optimization theme stock app
+    
+  </Changelog> 
+</ROM>
