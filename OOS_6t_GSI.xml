@@ -3,11 +3,11 @@
   <RomName>OxygenOS</RomName> 
   <VersionName>10.3.1</VersionName> 
   <VersionNumber type="integer">20200202</VersionNumber> 
-  <DirectUrl>http://Oneteam.site/oos/OxygenOS-10.3.1-03022020.zip</DirectUrl> 
-  <HttpUrl>http://Oneteam.site/oos/OxygenOS-10.3.1-03022020.zip</HttpUrl>
+  <DirectUrl>http://Oneteam.site/oos/Oxygen.zip</DirectUrl> 
+  <HttpUrl>http://Oneteam.site/oos/Oxygen.zip</HttpUrl>
   <Android>10</Android> 
-  <CheckMD5>BCB28FF799CEE86AD62F464CE972F0EE</CheckMD5> 
-  <FileSize type="integer">1739203044</FileSize> 
+  <CheckMD5>B74A8740F778475C9713BEC40A8B3669</CheckMD5> 
+  <FileSize type="integer">1891518520</FileSize> 
   <Developer>HARDGEYNER</Developer> 
   <AddonCount>1</AddonCount>
   <AddonCount>2</AddonCount>
@@ -21,6 +21,20 @@
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463</DonateURL> 
   <Changelog>
+  ** Port version 1.1
+    
+  *  Новый раздел в меню настроек
+    
+     New section in the settings menu
+	  
+  *  Новый фикс-приложение фронтальной камеры
+    
+     New front camera fix app
+	  
+  *  Много других изменений
+    
+     Many other changes
+	  
   ** Port version 1.0
     
   *  Сконвертировал Требл прошивку
